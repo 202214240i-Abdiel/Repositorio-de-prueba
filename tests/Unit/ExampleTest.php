@@ -1,7 +1,9 @@
 <?php
 
 namespace Tests\Unit;
-
+/**
+     * Creates the aplicacion
+     */
 use PHPUnit\Framework\TestCase;
 
 class ExampleTest extends TestCase
